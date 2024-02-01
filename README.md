@@ -1,1 +1,1 @@
-# stockpred2
+# stock predition using linear regression
